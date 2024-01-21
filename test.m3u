@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="group" tvg-logo="" tvg-id="rerer", BANDWIDTH=5420722,RESOLUTION=3840x2160, 620
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705840300/ei/TLqsZZqDFMvZzLUPt6mx0A8/ip/2600%3A1700%3Af74%3A4850%3A9d54%3A88e3%3A61dd%3Aa1c/id/cd868558d8f56c00/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-q4flrnek.googlevideo.com/mh/8I/mm/31%2C29/mn/sn-q4flrnek%2Csn-q4fl6nds/ms/au%2Crdu/mv/m/mvi/1/pl/44/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/788750/vprv/1/go/1/mt/1705818310/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfOsqb4ByBYnalQ5iOPr_b4NxPWO8lL6eWeyn_8PfX4QCIGTSyRYeMZjb2OjzbONgx4O2MCBMmODXb1M-Zbh-VlkB/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAO0Q8fYEPSA9351339gUJv0ZpRppVTzP-kr5UaPB0nkHAiEA-1ko3UPgbZf1yDAZ3qgCrsWO6NOqE69yjSeWllxm2dc%3D/file/index.m3u8
+#EXTINF:-1 group-title="group" tvg-logo="" tvg-id="rerer", BANDWIDTH=5420722,
+RESOLUTION=3840x2160, 620
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705847006/ei/ftSsZZSOH8Sk0_wP7LixyAo/ip/2600%3A1700%3Af74%3A4850%3A9d54%3A88e3%3A61dd%3Aa1c/id/292f7502664cdb0d/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-q4fl6nsy.googlevideo.com/mh/9F/mm/31%2C29/mn/sn-q4fl6nsy%2Csn-q4flrnez/ms/au%2Crdu/mv/m/mvi/3/pl/44/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/845000/vprv/1/go/1/mt/1705825016/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL6YtneLZ92GLSqp49-ucOiT9JLnkI962iihh_TRnlglAiBqQeVGoOcesYZ1UyVceT6ZmnIggyhVUCpatke1WhLL0A%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhANi43ZN6rB9E3IuyVhy5fRdpop0983GkTigiEMAyqBwXAiEAvSWAo10mXbe-70EaB8GiULOcY6mVe9zYe0vYrTtGvCo%3D/file/index.m3u8
